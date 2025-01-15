@@ -17,7 +17,7 @@ The `Statescope` package allows you to choose different processed single-cell si
 ### Example Usage
 
 ```python
-from statescope import Initialize_Statescope
+from Statescope import Initialize_Statescope
 
 # Initialize the Statescope model with the desired parameters
 Statescope_model = Initialize_Statescope(
