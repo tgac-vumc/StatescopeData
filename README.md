@@ -23,8 +23,7 @@ from Statescope import Initialize_Statescope
 Statescope_model = Initialize_Statescope(
     subset_bulk, 
     TumorType='NSCLC', 
-    Ncelltypes='15', 
-    Ncores=40
+    Ncelltypes='15'
 )
 ```
 
